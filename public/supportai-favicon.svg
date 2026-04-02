@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SupportAI icon">
+  <defs>
+    <linearGradient id="bg" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#14b8a6" />
+      <stop offset="1" stop-color="#0f766e" />
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="52" height="52" rx="14" fill="url(#bg)" />
+  <path
+    d="M21 26c0-6.1 4.9-11 11-11s11 4.9 11 11v7.5a4.5 4.5 0 0 1-4.5 4.5H37l-5 5-5-5h-1.5A4.5 4.5 0 0 1 21 33.5Z"
+    fill="#ecfeff"
+  />
+  <circle cx="27.5" cy="27.5" r="2.2" fill="#0f766e" />
+  <circle cx="36.5" cy="27.5" r="2.2" fill="#0f766e" />
+  <path
+    d="M27.5 34c1.4 1.4 2.9 2 4.5 2s3.1-.6 4.5-2"
+    fill="none"
+    stroke="#0f766e"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke-width="2.6"
+  />
+</svg>
